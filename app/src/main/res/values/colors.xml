@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#3FCAAD</color>
+    <color name="primary_dark">#39B59B</color>
+    <color name="primary_darker">#2b8874</color>
+    <color name="accent">#0C0F0A</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+</resources>
+<!--
+https://coolors.co/app/0c0f0a-ff206e-3fcaad-fbff12-ffffff
+-->
